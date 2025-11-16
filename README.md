@@ -152,7 +152,7 @@ Aplikasi terminal berbasis CLI untuk mencatat dan mengelola pengeluaran harian d
 
 ---
 
-## 🎨 Screenshot
+## 🎨 Tampilan/UI
 
 ### Menu Utama
 
@@ -217,6 +217,7 @@ Project ini mengajarkan:
 ## 👨‍💻 Author
 
 **Alvin Rama Saputra**
+
 - 💻 GitHub: [@alvinrama](https://github.com/alvinrama)
 
 ---

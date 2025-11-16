@@ -4,7 +4,7 @@
 # Aplikasi CLI Manajemen Pengeluaran Harian
 # ==========================================
 # Aplikasi terminal untuk mencatat pengeluaran harian, mengelola kategori, 
-# filtering time range, dan melakukan analisis keuangan.
+# filtering time, dan melakukan analisis keuangan.
 # 
 # Fitur:
 # - Tambah, Edit, Hapus pengeluaran
@@ -120,8 +120,6 @@ editData(){
     
     echo -e "${CYAN}\n\nMasukkan nomor data: ${NC}\c"
     read id
-
-    id=$1
 
     # Validasi ID (operator perbandingan)
     if ((id < 1 || id > data)); then
