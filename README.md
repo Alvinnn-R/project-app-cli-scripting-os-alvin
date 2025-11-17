@@ -218,7 +218,7 @@ Project ini mengajarkan:
 
 **Alvin Rama Saputra**
 
-- 💻 GitHub: [@alvinrama](https://github.com/alvinrama)
+- 💻 GitHub: [@alvinrama](https://github.com/Alvinnn-R)
 
 ---
 
